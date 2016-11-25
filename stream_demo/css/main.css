@@ -1,0 +1,39 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+#main
+{
+    position: relative;
+
+    width: 1000px;
+    margin: 20px auto;
+}
+.box
+{	
+    float: left;
+	background-color: #999999;
+    box-sizing: border-box;
+    padding: 5px;
+	width: 180px;
+	overflow: hidden;
+    border: 5px solid white;
+    border-radius: 3px;
+    box-shadow: 0 0 5px #ccc;
+}
+.box_one{
+	height: 200px;
+}
+.box_two{
+	height: 150px;
+}
+.box_three{
+	height: 300px;
+}
+.box_four{
+	height: 220px;
+}
+.box_five{
+	height: 270px;
+}
